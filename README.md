@@ -5,6 +5,8 @@ This project builds and evaluates machine learning models to predict **cancer ri
 
 ---
 
+## Blog link https://blog-cervical-cancer-risk-ml.netlify.app/
+---
 ## 📑 Table of Contents
 
 1. [Project Overview](#project-overview)
